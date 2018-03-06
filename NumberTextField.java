@@ -1,5 +1,3 @@
-package sample.validateFields;
-
 import javafx.scene.control.TextField;
 
 public class NumberTextField extends TextField {
